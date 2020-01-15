@@ -1,0 +1,18 @@
+h1{
+    color: darkslategray;
+}
+h2{
+    color: darkblue;
+}
+
+h3{
+    color: blue;
+}
+
+.projects{
+    margin-left: 10px;
+}
+
+.project{
+    margin-left: 20px;
+}
